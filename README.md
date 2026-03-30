@@ -1,4 +1,4 @@
-📦 FMCG – Sales & Performance 
+**📦 FMCG – Sales & Performance**
 
 📌 Project Summary
 This project is an interactive Power BI dashboard created to analyze the sales and operational performance of an FMCG (Fast Moving Consumer Goods) portfolio. The dashboard transforms 3 years of raw sales data (2022–2024) into clear, visual insights that help understand how the business is performing across different products, regions and channels.
@@ -18,7 +18,7 @@ The main objective of this project was to practice real-world FMCG data analysis
 
 Power BI – for building the dashboard and creating visualizations
 Power Query – for data cleaning and transformation
-DAX – for calculated measures such as Total Revenue, Promo Sales %, Stockout Count and Delivery Gap
+DAX – for creating measures such as Total Revenue, Promo Sales %, Stockout Count and Delivery Gap
 
 
 📂 Data Source
