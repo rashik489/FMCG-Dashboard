@@ -11,6 +11,7 @@ Where are the stockout and supply chain gaps?
 
 
 🎯 Purpose of the Dashboard
+
 The main objective of this project was to practice real-world FMCG data analysis and build a multi-page dashboard that reflects how companies monitor their sales, promotions and supply chain performance. It demonstrates how data can be used to track growth, identify trends and support better business decision-making.
 
 🛠️ Tech Stack
