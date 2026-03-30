@@ -22,6 +22,7 @@ DAX – for calculated measures such as Total Revenue, Promo Sales %, Stockout C
 
 
 📂 Data Source
+
 The dashboard is built using the FMCG_2022_2024 dataset sourced from Kaggle, which simulates real FMCG sales operations. The data includes:
 
 190,757 rows of transactional sales data
@@ -33,6 +34,7 @@ Promotion flags, stock levels, delivery data and pricing information
 This dataset allows the dashboard to replicate a realistic FMCG business intelligence scenario.
 
 ✨ Key Features
+
 📊 Page 1 — Sales Overview
 
 KPI cards showing Total Revenue, Total Units Sold, Avg Price Per Unit and Total Transactions
@@ -62,9 +64,11 @@ Clustered bar chart comparing delivered quantity vs units sold by category
 All 4 pages include interactive slicers for Year, Category, Brand, Region and Channel.
 
 📸 Dashboard Screenshot
+
 ![Overview](https://github.com/rashik489/FMCG-Dashboard/blob/main/Overview.png)
 
 🚀 What This Project Demonstrates
+
 This project highlights skills in:
 
 Data cleaning and transformation using Power Query
